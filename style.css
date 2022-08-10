@@ -1,0 +1,36 @@
+header{
+    background-color: rgb(126, 126, 126);
+    height: 150px;
+}
+
+.stnav{
+    background-color: rgb(83, 83, 83);
+    height: 40px;
+}
+
+.destaque h1{
+    background-color: rgb(83, 83, 83);
+    height: 50px;
+    width: 60%;
+}
+
+.destaque-baixo{
+    background-color:  rgb(126, 126, 126);
+    width: 60%;
+    height: 240px;
+}
+
+
+.destaque img{
+    width: 200px;
+}
+
+.destaque-p{
+    text-align: justify;
+}
+
+/* CDGS EXTRA */
+
+.botaomilagre{
+    width: 100%;
+}
