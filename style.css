@@ -4,19 +4,27 @@ header{
 }
 
 .stnav{
-    background-color: rgb(83, 83, 83);
+    background-color: #6c757d;
     height: 40px;
+}
+
+.botaomilagre{
+    margin-left: 4%;
+}
+
+.destaque{
+    margin-right: 30.75%;
 }
 
 .destaque h1{
     background-color: rgb(83, 83, 83);
     height: 50px;
-    width: 60%;
+    width: 100%;
 }
 
 .destaque-baixo{
     background-color:  rgb(126, 126, 126);
-    width: 60%;
+    width: 100%;
     height: 240px;
 }
 
@@ -27,6 +35,12 @@ header{
 
 .destaque-p{
     text-align: justify;
+}
+
+.double-section1, .double-section2{
+    background-color:rgb(83, 83, 83);
+    width: 25%;
+    height: 300px;
 }
 
 /* CDGS EXTRA */
